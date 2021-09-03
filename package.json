@@ -1,0 +1,31 @@
+{
+  "name": "webscraper",
+  "main": "index.js",
+  "bin": {
+    "webscraper": "./index.js"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "website-scraper": "^4.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptillium/webscraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cryptillium/webscraper/issues"
+  },
+  "homepage": "https://github.com/cryptillium/webscraper#readme"
+}
